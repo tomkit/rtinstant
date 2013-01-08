@@ -1,0 +1,81 @@
+.body-query {
+	display: inline-block;
+}
+
+#row1 { /* background-color: black; */
+	
+}
+
+#body {
+	background-color: black;
+	font-family: 'Arial';
+	font-size: x-large;
+}
+
+#body-container { 
+	height: 100%;
+	width: 1136px;
+	height: 640px;
+	position: relative;
+	top: 15px;
+}
+
+.body-form {
+	text-align: center;
+	position: relative;
+	left: 3px;
+}
+
+.body-form input {
+	width: 945px;
+}
+
+#movie-title {
+	text-align: center;
+}
+
+.container {
+	width: 100%;
+	height: 400px;
+}
+
+#body-content {
+	height: 400px;
+	text-align: center;
+	position: relative;
+	left: 90px;
+}
+
+.row {
+	margin: 20px 0 20px 0;
+}
+
+.movie-tile {
+	background-color: #FFD100;
+	height: 120px;
+	width: 135px;
+	top: 50px;
+	color: white;
+	display: table;
+	overflow: hidden;
+	/* margin: 5px 5px 5px 5px; */
+}
+
+.movie-tile p {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	/* padding: 10%; */
+}
+
+#movie-poster {
+	background-color: #FFD700;
+	height: 400px;
+}
+
+#movie-details {
+	top: -20px;
+	position: relative;
+	left: 20px;
+	/* background-color: yellow; */
+}
